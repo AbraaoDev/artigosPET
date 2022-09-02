@@ -2,8 +2,11 @@
     <img alt="Capa do ArtigosPET" title="Artigos PET" src=".github/capa.png" />
 </h1>
 
+## Tela - Artigos PET
+
 <p align="center">
   <span>Projeto desenvolvido para ser uma Tela de Artigos aprovados e postados, pelo PET Computação UFPB. Em breve mais telas serão adicionadas e novas funcionalidades.
+   <br>
    <br>
     🚀 NEVER STOP LEARNING!
   </span>
