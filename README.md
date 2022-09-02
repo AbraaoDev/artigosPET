@@ -43,7 +43,9 @@ $ yarn dev
 ## 💻 Project
 
 [ArtigosPET] came to remind you to exercise always! 🔥 <br>
-<a href="https://artigos-pet.vercel.app/" target="blank">Clique aqui e veja o Deploy da Aplicação <img width="50px" src=".github/vite.svg"/></a>
+
+<div align="center"><a href="https://artigos-pet.vercel.app/" target="blank">Clique aqui e veja o Deploy da Aplicação <img width="30px" src=".github/vite.svg"/></a>
+</div>
 
 ## 📝 License
 
