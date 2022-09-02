@@ -42,8 +42,8 @@ $ yarn dev
 
 ## 💻 Project
 
-[ArtigosPET] came to remind you to exercise always! 🔥
-<a href="https://artigos-pet.vercel.app/" target="blank"><img width="50px" src=".github/vercel.svg"/></a>
+[ArtigosPET] came to remind you to exercise always! 🔥 <br>
+<a href="https://artigos-pet.vercel.app/" target="blank"><img width="200px" src=".github/vercel.png"/></a>
 
 ## 📝 License
 
