@@ -42,7 +42,8 @@ $ yarn dev
 
 ## 💻 Project
 
-[Ignews] came to remind you to exercise always! 💜
+[ArtigosPET] came to remind you to exercise always! 🔥
+<a href="https://artigos-pet.vercel.app/"><img src=".github/vercel.svg"/></a>
 
 ## 📝 License
 
