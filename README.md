@@ -44,7 +44,7 @@ $ yarn dev
 
 [ArtigosPET] came to remind you to exercise always! 🔥 <br>
 
-<div align="center" ><a href="https://artigos-pet.vercel.app/" target="blank"> <img align="middle"  width="30px" src=".github/vite.svg"/>Click here and see the Application Deployment</a>
+<div align="center" ><a href="https://artigos-pet.vercel.app/" target="blank"> <img align="center" width="30px" src=".github/vite.svg"/>Click here and see the Application Deployment</a>
 </div>
 
 ## 📝 License
